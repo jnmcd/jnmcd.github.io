@@ -10,20 +10,6 @@
         <?php 
             include_once "navbar.php";
         ?>
-        <div class='jumbotron'>
-            <div class='container'>
-                <h1>
-                    GhostRed crowd sourcing!
-                </h1>
-            </div>
-        </div>
-        <div class='container'>
-            <p>
-                Some text goes here.
-            </p>
-            <p>
-                And some more here...
-            </p>
-        </div>
+        
     </body>
 </html>
